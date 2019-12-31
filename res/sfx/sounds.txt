@@ -1,0 +1,8 @@
+0, beam.wav
+1, explosionMedium.wav
+2, explosionShort.wav
+3, flameHit.wav
+4, missileLaunchMedium.wav
+5, shotBigBlaster.wav
+6, shotFast.wav
+7, shotPewFast.wav
